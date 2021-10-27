@@ -8,7 +8,8 @@
                 <ul class="nav pull-right">
                     <li><a href="index.php">Data Barang </a></li>
                     <li><a href="jenis_barang.php">Jenis Barang </a></li>
-                    <li><a href="penjualan.php">Penjualan </a></li>
+                    <li><a href="data_penjualan.php">Data Penjualan </a></li>
+                    <li><a href="perbandingan_penjualan.php">Perbandingan Penjualan </a></li>
                 </ul>
             </div>
         </div>
